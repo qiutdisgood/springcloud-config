@@ -1,1 +1,2 @@
 spring.server.port=8080 #配置端口号
+spring.context-path=/dev
